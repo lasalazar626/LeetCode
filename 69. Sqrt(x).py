@@ -12,4 +12,4 @@ def mySqrt(x) -> int:
                 L = mid
             
             
-        return temp
+    
